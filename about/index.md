@@ -10,8 +10,7 @@ comments: false
 ## 新的开始
 * 做一个决定，并不难，难的是付诸行动，并且坚持到底。
 
-## v
-
+## Test
 {% capture images %}
     https://github.com/dearrain/dearrain.GitHub.io/blob/master/assets/img/324047.jpg
     https://github.com/dearrain/dearrain.GitHub.io/blob/master/assets/img/309880.jpg
