@@ -12,8 +12,8 @@ comments: false
 
 ## Test
 {% capture images %}
-    dearrain.GitHub.io / assets / img /324047.jpg
-    dearrain.GitHub.io/assets/img/309880.jpg
+    http://img0.imgtn.bdimg.com/it/u=190719916,1816466212&fm=214&gp=0.jpg
+    http://qq.xiawo.net/upFiles/infoImg/coll/20141009/OT20141009100557872.jpg
 {% endcapture %}
 {% include gallery images=images caption="测试" cols=2 %}
 
